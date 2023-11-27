@@ -1,5 +1,5 @@
 # Nex
-![Alt text](assets/1.jpg)
-![Alt text](assets/2.jpg)
-![Alt text](assets/3.jpg)
-![Alt text](assets/4.jpg)
+![alt text](https://github.com/ashwinnavange/nex/blob/master/assets/1.jpg?raw=true)
+![alt text](https://github.com/ashwinnavange/nex/blob/master/assets/2.jpg?raw=true)
+![alt text](https://github.com/ashwinnavange/nex/blob/master/assets/3.jpg?raw=true)
+![alt text](https://github.com/ashwinnavange/nex/blob/master/assets/4.jpg?raw=true)
