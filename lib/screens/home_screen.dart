@@ -18,7 +18,7 @@ class HomeScreen extends GetWidget<HomeController> {
         elevation: 0,
         toolbarHeight: 50,
         leading: Padding(
-          padding: const EdgeInsets.all(16.0),
+          padding: const EdgeInsets.symmetric(horizontal : 16.0),
           child: Image.asset('assets/logo.png'),
         ),
         actions: [
